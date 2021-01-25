@@ -6,4 +6,4 @@ This is an API for social network where users can add users, add new thoughts, p
 Express.js, MongoDB database, Mongoose ODM
 
 ### Usage video
-[Link to video]( )    
+[Link to video](https://youtu.be/eNfCIpBpSzU)    
